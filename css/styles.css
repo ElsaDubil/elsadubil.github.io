@@ -35,7 +35,7 @@
   --bs-gray-800: #343a40;
   --bs-gray-900: #381046;
   --bs-primary: rgb(196, 136, 239);
-  --bs-secondary: rgb(95, 194, 233);
+  --bs-secondary: #5fc2e9;
   --bs-success: #198754;
   --bs-info: #a1daf6;
   --bs-warning:  #DAF7A6 ;
@@ -2861,8 +2861,8 @@ textarea.form-control-lg {
 }
 
 .btn-secondary {
-  --bs-btn-color: #000;
-  --bs-btn-bg: #e21e80;
+  --bs-btn-color: #ffffff;
+  --bs-btn-bg: #5fc2e9;
   --bs-btn-border-color: #e21e80;
   --bs-btn-hover-color: #000;
   --bs-btn-hover-bg: #e64093;
@@ -2873,8 +2873,8 @@ textarea.form-control-lg {
   --bs-btn-active-border-color: #e5358d;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #000;
-  --bs-btn-disabled-bg: #e21e80;
-  --bs-btn-disabled-border-color: #e21e80;
+  --bs-btn-disabled-bg: #5fc2e9;
+  --bs-btn-disabled-border-color: #5fc2e9;
 }
 
 .btn-success {
@@ -2997,19 +2997,19 @@ textarea.form-control-lg {
 }
 
 .btn-outline-secondary {
-  --bs-btn-color: #e21e80;
-  --bs-btn-border-color: #e21e80;
+  --bs-btn-color: #5fc2e9;
+  --bs-btn-border-color: #5fc2e9;
   --bs-btn-hover-color: #000;
-  --bs-btn-hover-bg: #e21e80;
-  --bs-btn-hover-border-color: #e21e80;
+  --bs-btn-hover-bg: #5fc2e9;
+  --bs-btn-hover-border-color: #5fc2e9;
   --bs-btn-focus-shadow-rgb: 226, 30, 128;
   --bs-btn-active-color: #000;
-  --bs-btn-active-bg: #e21e80;
-  --bs-btn-active-border-color: #e21e80;
+  --bs-btn-active-bg: #5fc2e9;
+  --bs-btn-active-border-color: #5fc2e9;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-  --bs-btn-disabled-color: #e21e80;
+  --bs-btn-disabled-color: #5fc2e9;
   --bs-btn-disabled-bg: transparent;
-  --bs-btn-disabled-border-color: #e21e80;
+  --bs-btn-disabled-border-color: #5fc2e9;
   --bs-gradient: none;
 }
 
@@ -6702,10 +6702,10 @@ textarea.form-control-lg {
 }
 
 .link-secondary {
-  color: #e21e80 !important;
+  color: #5fc2e9 !important;
 }
 .link-secondary:hover, .link-secondary:focus {
-  color: #e84b99 !important;
+  color: #b3ecec !important;
 }
 
 .link-success {
