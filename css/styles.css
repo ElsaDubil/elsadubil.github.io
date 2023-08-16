@@ -52,7 +52,7 @@
   --bs-dark-rgb: 33, 37, 41;
   --bs-white-rgb: 255, 255, 255;
   --bs-black-rgb: 0, 0, 0;
-  --bs-body-color-rgb: 15, 8, 25;
+  --bs-body-color-rgb: 33, 37, 41;
   --bs-body-bg-rgb: 255, 255, 255;
   --bs-font-sans-serif: "Plus Jakarta Sans";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -61,7 +61,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color:  #0f0819 ;
+  --bs-body-color:  #100b18 ;
   --bs-body-bg: #fff;
   --bs-border-width: 1px;
   --bs-border-style: solid;
@@ -11584,8 +11584,8 @@ html {
   width: 75vw;
   border-radius: 5vw;
   margin-top: 5vw;
-  max-height: 60rem;
-  max-width: 60rem;
+  max-height: 40rem;
+  max-width: 40rem;
 }
 .profile .profile-img {
   height: 80vw;
