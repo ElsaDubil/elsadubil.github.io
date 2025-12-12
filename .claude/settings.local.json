@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs ls:*)",
+      "Bash(file:*)",
+      "Bash(python update_performingarts.py:*)",
+      "Bash(start:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
